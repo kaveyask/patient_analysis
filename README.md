@@ -38,9 +38,10 @@ An interactive **Excel analytics project** analyzing hospital patient data acros
 
 ### 📂 Project Files
 
-* `patient_analysis.xlsx` – Excel dataset and interactive dashboard
-* `Patient_Analysis_Dashboard.pptx` – Project presentation
-* `Dashboard-Screenshot.png` – Dashboard preview
+* `patient_analysis.xlsx` 
+* `Patient_Analysis_Dashboard.pptx` 
+* `Dashboard-Screenshot.png`
+* `patients_raw.csv
 
 ### 👤 Author
 
