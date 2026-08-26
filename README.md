@@ -47,4 +47,4 @@ An interactive **Excel analytics project** analyzing hospital patient data acros
 
 **Kaveya S**
 
-🔗 **GitHub Repository**
+🔗 **GitHub Repository**(https://github.com/kaveyask/patient_analysis)
